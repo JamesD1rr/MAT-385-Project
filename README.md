@@ -10,4 +10,6 @@ file provided. With each edge being on a new line and each edge being represente
 
 'intFirstNode' 'intSecondNode' 'doubleWeight'
 
+or enter each edge at a time following prompts from the program following the same edge representation.
+
 Third: when prompted to enter name of text file, please provied the path to file too. For exapmle if its in the src folder, 'src/Graph.txt'
